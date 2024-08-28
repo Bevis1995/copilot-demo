@@ -1,0 +1,7 @@
+host: 'https://moneyforwardvietnam.testrail.io'
+project: 'AA - Asset Accounting'
+title: '[AA] Automated Test Run - by Playwright'
+file: './test-results/junit-report.xml'
+run-id: 1662
+milestone-id: 72
+suite-id: 440

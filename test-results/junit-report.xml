@@ -1,0 +1,1556 @@
+<testsuites id="" name="" tests="48" failures="0" skipped="0" errors="0" time="361.341809">
+<testsuite name="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" timestamp="2024-08-28T06:47:10.292Z" hostname="API Testing Playwright projects" tests="48" failures="0" skipped="0" time="339.334" errors="0">
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C224209 Increase: verify total acquisition_cost for each page, mode 2 (Increase/Decrease)" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="28.539">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-98f5f-on-cost-for-each-page-mode-2-Increase-Decrease--API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C224213 Increase: verify total acquisition_cost for each page, mode 1 (All)" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="22.521">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-cc62b-otal-acquisition-cost-for-each-page-mode-1-All--API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363259 Increase: Can not show data with mode = 2 when acquire_at not in the year of report" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="2.156">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-4d95d-ode-2-when-acquire-at-not-in-the-year-of-report-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363260 Increase: show data with mode =2 when acquire_at in the year of report" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="2.607">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-31004-th-mode-2-when-acquire-at-in-the-year-of-report-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363261 Increase: FA only has  Acquire_at ≤ 2023/01/01" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="2.522">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-55bc9-61-Increase-FA-only-has-Acquire-at-≤-2023-01-01-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363262 Increase: FA  has acquire_at and start usage ≤ 2023/01/01" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="2.541">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-add9b--FA-has-acquire-at-and-start-usage-≤-2023-01-01-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363263 Increase: FA has acquire_at in (2023/01/02 - 2024/01/01)" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="2.53">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-e5558-e-FA-has-acquire-at-in-2023-01-02---2024-01-01--API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363264 Increase: Verify FA acquire_at and move_at ≤ 2023/01/01, destination  Submit Destination" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.673">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-41b2e--at-≤-2023-01-01-destination-Submit-Destination-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363265 Increase: Verify FA acquire_at and move_at ≤ 2023/01/01, original Submit Destination" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.352">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-6d20f-ove-at-≤-2023-01-01-original-Submit-Destination-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363266 Increase: FA has acquire_at and move_at  (2023/01/02 - 2024/01/01), original Submit Destination" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.852">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-5474b--01-02---2024-01-01-original-Submit-Destination-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363267 Increase: FA has acquire_at and move_at  (2023/01/02 - 2024/01/01), destination Submit Destination" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.648">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-9fc92--02---2024-01-01-destination-Submit-Destination-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363268 Increase: FA has acquire_at and move_at  (2023/01/02 - 2024/01/01), destination Submit Destination" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="5.187">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-27961--02---2024-01-01-destination-Submit-Destination-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363269 Increase: has acquire_at and sale_at in the same year, Acquire_at in (2022/01/02 - 2023/01/01), sale_at in (2022/01/02 - 2023/01/01)" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="5.004">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-66d19--2023-01-01-sale-at-in-2022-01-02---2023-01-01--API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363270 Increase: FA has acquire_at and retire_at not in the same year, Acquire_at ≤ 2023/01/01, retire_at in (2023/01/02 - 2024/01/01)" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.704">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-26e8e-023-01-01-retire-at-in-2023-01-02---2024-01-01--API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363271 Increase: FA has acquire_at and retire_at in the same year, Acquire_at in (2023/01/02 - 2024/01/01), retire_at in (2023/01/02 - 2024/01/01)" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.807">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-32245-024-01-01-retire-at-in-2023-01-02---2024-01-01--API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363272 Increase: Verify service life for FA that has services life is number year" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="3.614">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-24c18-fe-for-FA-that-has-services-life-is-number-year-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363273 Increase: Verify service life for FA that has Dmethod = 50,60" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="5.24">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-336da-rify-service-life-for-FA-that-has-Dmethod-50-60-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363274 Increase: Verify service life for FA that has Dmethod = 80,90,99" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="7.134">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-1faf4-y-service-life-for-FA-that-has-Dmethod-80-90-99-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363275 Increase: The FA with acquisition category  = 1 (新品)" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="3.652">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-0e4f4-Increase-The-FA-with-acquisition-category-1-新品--API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363276 Increase: The FA with acquisition category  = 2 (中古)" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="3.78">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-38ae6-Increase-The-FA-with-acquisition-category-2-中古--API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363277 Increase: FA with quantity = 0" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="3.467">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-7a2f3-taging-beta-C363277-Increase-FA-with-quantity-0-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363278 Increase: FA with quantity &gt; 0" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="3.965">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-c3c46-taging-beta-C363278-Increase-FA-with-quantity-0-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363279 Increase: Verify report at the first year of acquisition of FA" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="3.974">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-f6347-y-report-at-the-first-year-of-acquisition-of-FA-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363280 Increase: Verify report at the second year of acquisition of FA" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.213">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-0e941--report-at-the-second-year-of-acquisition-of-FA-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363281 Increase: Verify report at the year when valuation amount greater than 5% of acquisition cost of FA" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.056">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-0522c-amount-greater-than-5-of-acquisition-cost-of-FA-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363282 Increase: Verify report at the year when valuation amount less than 5% of acquisition cost of FA" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="5.158">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-73592-on-amount-less-than-5-of-acquisition-cost-of-FA-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363283 Increase: FA with Taxation standard that Has exemption = false" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.396">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-76f13-with-Taxation-standard-that-Has-exemption-false-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363284 Increase: FA with Taxation standard that Has exemption= true = 7/9" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.617">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-44a9b-h-Taxation-standard-that-Has-exemption-true-7-9-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363285 Increase: FA with Taxation standard that Has exemption= true = 11/12" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.897">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-6b8d1-Taxation-standard-that-Has-exemption-true-11-12-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363286 Increase: FA with Taxation standard that Has exemption= false" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.465">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-00c0b-with-Taxation-standard-that-Has-exemption-false-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363287 Increase: FA with Taxation standard that Has exemption= true = 10/9" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="4.863">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-eb8a3--Taxation-standard-that-Has-exemption-true-10-9-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363288 Increase: FA with Asset type Property tax = 1" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="5.04">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-82e92-3288-Increase-FA-with-Asset-type-Property-tax-1-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363289 Increase: FA with Asset type Property tax = 2" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="5.001">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-5be06-3289-Increase-FA-with-Asset-type-Property-tax-2-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363290 Increase: FA with Asset type Property tax = 3" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="5.102">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-e5cd6-3290-Increase-FA-with-Asset-type-Property-tax-3-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363291 Increase: FA with Asset type Property tax = 4" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="5.493">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-b173f-3291-Increase-FA-with-Asset-type-Property-tax-4-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363292 Increase: FA with Asset type Property tax = 5" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="6.627">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-53b7a-3292-Increase-FA-with-Asset-type-Property-tax-5-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363293 Increase: FA with Asset type Property tax = 6" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="6.669">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-6533d-3293-Increase-FA-with-Asset-type-Property-tax-6-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363294 Increase: FA has dividing, run report before dividing" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="11.777">
+<system-out>
+<![CDATA[FAData {
+  id: [33m1416830[39m,
+  biid: [32m'01J6BW0XQF4XYAAWHT3NQ9PZSZ'[39m,
+  created_at: [32m'2024-08-28T06:51:00.683931Z'[39m,
+  user_info: {
+    id: [33m912253[39m,
+    identification_code: [32m''[39m,
+    email: [32m''[39m,
+    display_name: [32m'2ledgers_2005_stg'[39m,
+    family_name: [32m''[39m,
+    given_name: [32m''[39m,
+    office_id: [33m82941[39m,
+    office_identification_code: [32m''[39m
+  },
+  valid_from: [32m'2022-01-01'[39m,
+  name: [32m'Macbook Pro 1'[39m,
+  name_kana: [32m'パソコン'[39m,
+  code: [32m'SSKM000100001'[39m,
+  branch_code: [32m'001'[39m,
+  acquired_at: [32m'2007-04-02'[39m,
+  usage_started_at: [32m'2007-04-04'[39m,
+  transition_at: [1mnull[22m,
+  retired_at: [1mnull[22m,
+  sold_at: [1mnull[22m,
+  recognized_at: [32m'2022-01-01'[39m,
+  divided_at: [32m'2022-01-01'[39m,
+  impaired_at: [1mnull[22m,
+  sold_amount: [33m0[39m,
+  sold_destination_name: [1mnull[22m,
+  disposal_cost: [1mnull[22m,
+  disposal_destination_name: [1mnull[22m,
+  disposal_cost_excluded_excise: [1mnull[22m,
+  manual_disposal_excise_value: [1mnull[22m,
+  calculated_disposal_excise_value: [1mnull[22m,
+  disposal_excise_id: [1mnull[22m,
+  sold_amount_excluded_excise: [1mnull[22m,
+  manual_sold_excise_value: [1mnull[22m,
+  calculated_sold_excise_value: [1mnull[22m,
+  sold_excise_id: [1mnull[22m,
+  acquisition_cost: [33m300000[39m,
+  acquisition_cost_excluded_excise: [33m300000[39m,
+  manual_excise_value: [33m0[39m,
+  calculated_excise_value: [33m0[39m,
+  excise_id: [33m281207[39m,
+  area_biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+  department_biid: [1mnull[22m,
+  quantity: [32m'2'[39m,
+  acquire_destination_name: [32m'Apple'[39m,
+  pre_submit_number: [32m''[39m,
+  memo: [32m'eLtax api automation testing'[39m,
+  fixed_asset_ledgers: [
+    {
+      id: [33m2862185[39m,
+      created_at: [32m'2024-08-28T06:51:01Z'[39m,
+      fixed_asset_id: [33m1416830[39m,
+      ledger_setting_id: [33m1098[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    },
+    {
+      id: [33m2862186[39m,
+      created_at: [32m'2024-08-28T06:51:01Z'[39m,
+      fixed_asset_id: [33m1416830[39m,
+      ledger_setting_id: [33m1099[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    }
+  ],
+  asset_structure_for_corporate_tax: [32m''[39m,
+  asset_detail_for_corporate_tax: [32m''[39m,
+  exemption_numerator: [33m11[39m,
+  exemption_denominator: [33m12[39m,
+  tags: [],
+  urls: [ [32m'https://moneyforward.com/'[39m ],
+  asset_category: { id: [33m30730[39m, code: [32m'SSKM0001'[39m, name: [32m'科目0001'[39m, asset_type: [33m1[39m },
+  area: {
+    id: [33m26497[39m,
+    biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+    code: [32m'STBS0001'[39m,
+    name: [32m'設置場所0001'[39m,
+    valid_from: [32m'2000-03-20'[39m,
+    valid_to: [1mnull[22m
+  },
+  unit: [1mnull[22m,
+  department: [1mnull[22m,
+  event_cause: {
+    id: [33m9635[39m,
+    type: [33m31[39m,
+    content: [32m'分割のため'[39m,
+    search_key: [32m''[39m,
+    code: [32m'5001'[39m,
+    is_default: [33mtrue[39m
+  },
+  change_situation: { code: [33m53[39m, name_jp: [32m'分割'[39m, name_en: [32m'division'[39m },
+  asset_status: {
+    code: [33m20[39m,
+    name_jp: [32m'事業供用中（償却中）'[39m,
+    name_en: [32m'in_service_depreciating'[39m
+  },
+  acquire_category: { code: [33m1[39m, name_jp: [32m'新品'[39m, name_en: [32m'new'[39m },
+  asset_type_for_depreciable_property_tax: { code: [33m1[39m, name_jp: [32m'構築物'[39m, name_en: [32m'construction'[39m },
+  asset_type_for_corporate_tax: { code: [33m17[39m, name_jp: [32m'器具及び備品'[39m, name_en: [32m'instruments_and_furniture'[39m },
+  summary_for_asset_depreciation_tax: [32m''[39m,
+  is_excluded: [33mtrue[39m,
+  dividing_source_id: [33m1416829[39m,
+  dividing_source_fixed_asset: [1mnull[22m,
+  dividing_destination_fixed_asset: [1mnull[22m
+}
+
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-24f00-ease-FA-has-dividing-run-report-before-dividing-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363295 Increase: FA has dividing, run report after dividing" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="10.898">
+<system-out>
+<![CDATA[FAData {
+  id: [33m1416835[39m,
+  biid: [32m'01J6BW198SEVNKWVPSRXJ01TDH'[39m,
+  created_at: [32m'2024-08-28T06:51:12.508993Z'[39m,
+  user_info: {
+    id: [33m912253[39m,
+    identification_code: [32m''[39m,
+    email: [32m''[39m,
+    display_name: [32m'2ledgers_2005_stg'[39m,
+    family_name: [32m''[39m,
+    given_name: [32m''[39m,
+    office_id: [33m82941[39m,
+    office_identification_code: [32m''[39m
+  },
+  valid_from: [32m'2022-01-01'[39m,
+  name: [32m'Macbook Pro 1'[39m,
+  name_kana: [32m'パソコン'[39m,
+  code: [32m'SSKM000100001'[39m,
+  branch_code: [32m'001'[39m,
+  acquired_at: [32m'2007-04-02'[39m,
+  usage_started_at: [32m'2007-04-04'[39m,
+  transition_at: [1mnull[22m,
+  retired_at: [1mnull[22m,
+  sold_at: [1mnull[22m,
+  recognized_at: [32m'2022-01-01'[39m,
+  divided_at: [32m'2022-01-01'[39m,
+  impaired_at: [1mnull[22m,
+  sold_amount: [33m0[39m,
+  sold_destination_name: [1mnull[22m,
+  disposal_cost: [1mnull[22m,
+  disposal_destination_name: [1mnull[22m,
+  disposal_cost_excluded_excise: [1mnull[22m,
+  manual_disposal_excise_value: [1mnull[22m,
+  calculated_disposal_excise_value: [1mnull[22m,
+  disposal_excise_id: [1mnull[22m,
+  sold_amount_excluded_excise: [1mnull[22m,
+  manual_sold_excise_value: [1mnull[22m,
+  calculated_sold_excise_value: [1mnull[22m,
+  sold_excise_id: [1mnull[22m,
+  acquisition_cost: [33m300000[39m,
+  acquisition_cost_excluded_excise: [33m300000[39m,
+  manual_excise_value: [33m0[39m,
+  calculated_excise_value: [33m0[39m,
+  excise_id: [33m281207[39m,
+  area_biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+  department_biid: [1mnull[22m,
+  quantity: [32m'2'[39m,
+  acquire_destination_name: [32m'Apple'[39m,
+  pre_submit_number: [32m''[39m,
+  memo: [32m'eLtax api automation testing'[39m,
+  fixed_asset_ledgers: [
+    {
+      id: [33m2862195[39m,
+      created_at: [32m'2024-08-28T06:51:13Z'[39m,
+      fixed_asset_id: [33m1416835[39m,
+      ledger_setting_id: [33m1098[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    },
+    {
+      id: [33m2862196[39m,
+      created_at: [32m'2024-08-28T06:51:13Z'[39m,
+      fixed_asset_id: [33m1416835[39m,
+      ledger_setting_id: [33m1099[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    }
+  ],
+  asset_structure_for_corporate_tax: [32m''[39m,
+  asset_detail_for_corporate_tax: [32m''[39m,
+  exemption_numerator: [33m11[39m,
+  exemption_denominator: [33m12[39m,
+  tags: [],
+  urls: [ [32m'https://moneyforward.com/'[39m ],
+  asset_category: { id: [33m30730[39m, code: [32m'SSKM0001'[39m, name: [32m'科目0001'[39m, asset_type: [33m1[39m },
+  area: {
+    id: [33m26497[39m,
+    biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+    code: [32m'STBS0001'[39m,
+    name: [32m'設置場所0001'[39m,
+    valid_from: [32m'2000-03-20'[39m,
+    valid_to: [1mnull[22m
+  },
+  unit: [1mnull[22m,
+  department: [1mnull[22m,
+  event_cause: {
+    id: [33m9635[39m,
+    type: [33m31[39m,
+    content: [32m'分割のため'[39m,
+    search_key: [32m''[39m,
+    code: [32m'5001'[39m,
+    is_default: [33mtrue[39m
+  },
+  change_situation: { code: [33m53[39m, name_jp: [32m'分割'[39m, name_en: [32m'division'[39m },
+  asset_status: {
+    code: [33m20[39m,
+    name_jp: [32m'事業供用中（償却中）'[39m,
+    name_en: [32m'in_service_depreciating'[39m
+  },
+  acquire_category: { code: [33m1[39m, name_jp: [32m'新品'[39m, name_en: [32m'new'[39m },
+  asset_type_for_depreciable_property_tax: { code: [33m1[39m, name_jp: [32m'構築物'[39m, name_en: [32m'construction'[39m },
+  asset_type_for_corporate_tax: { code: [33m17[39m, name_jp: [32m'器具及び備品'[39m, name_en: [32m'instruments_and_furniture'[39m },
+  summary_for_asset_depreciation_tax: [32m''[39m,
+  is_excluded: [33mtrue[39m,
+  dividing_source_id: [33m1416834[39m,
+  dividing_source_fixed_asset: [1mnull[22m,
+  dividing_destination_fixed_asset: [1mnull[22m
+}
+FAData {
+  id: [33m1416836[39m,
+  biid: [32m'01J6BW1B83WM5XX5HQ7SAAEEHW'[39m,
+  created_at: [32m'2024-08-28T06:51:12.515514Z'[39m,
+  user_info: {
+    id: [33m912253[39m,
+    identification_code: [32m''[39m,
+    email: [32m''[39m,
+    display_name: [32m'2ledgers_2005_stg'[39m,
+    family_name: [32m''[39m,
+    given_name: [32m''[39m,
+    office_id: [33m82941[39m,
+    office_identification_code: [32m''[39m
+  },
+  valid_from: [32m'2022-01-01'[39m,
+  name: [32m'Macbook Pro 1.1'[39m,
+  name_kana: [32m''[39m,
+  code: [32m'SSKM000100001'[39m,
+  branch_code: [32m'002'[39m,
+  acquired_at: [32m'2007-04-02'[39m,
+  usage_started_at: [32m'2007-04-04'[39m,
+  transition_at: [1mnull[22m,
+  retired_at: [1mnull[22m,
+  sold_at: [1mnull[22m,
+  recognized_at: [32m'2022-01-01'[39m,
+  divided_at: [32m'2022-01-01'[39m,
+  impaired_at: [1mnull[22m,
+  sold_amount: [33m0[39m,
+  sold_destination_name: [1mnull[22m,
+  disposal_cost: [1mnull[22m,
+  disposal_destination_name: [1mnull[22m,
+  disposal_cost_excluded_excise: [1mnull[22m,
+  manual_disposal_excise_value: [1mnull[22m,
+  calculated_disposal_excise_value: [1mnull[22m,
+  disposal_excise_id: [1mnull[22m,
+  sold_amount_excluded_excise: [1mnull[22m,
+  manual_sold_excise_value: [1mnull[22m,
+  calculated_sold_excise_value: [1mnull[22m,
+  sold_excise_id: [1mnull[22m,
+  acquisition_cost: [33m200000[39m,
+  acquisition_cost_excluded_excise: [33m200000[39m,
+  manual_excise_value: [33m0[39m,
+  calculated_excise_value: [33m0[39m,
+  excise_id: [33m281207[39m,
+  area_biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+  department_biid: [1mnull[22m,
+  quantity: [32m'0'[39m,
+  acquire_destination_name: [32m'Apple'[39m,
+  pre_submit_number: [32m''[39m,
+  memo: [32m'eLtax api automation testing'[39m,
+  fixed_asset_ledgers: [
+    {
+      id: [33m2862197[39m,
+      created_at: [32m'2024-08-28T06:51:13Z'[39m,
+      fixed_asset_id: [33m1416836[39m,
+      ledger_setting_id: [33m1098[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m200000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m0[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m0[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    },
+    {
+      id: [33m2862198[39m,
+      created_at: [32m'2024-08-28T06:51:13Z'[39m,
+      fixed_asset_id: [33m1416836[39m,
+      ledger_setting_id: [33m1099[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m200000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m0[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m0[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    }
+  ],
+  asset_structure_for_corporate_tax: [32m''[39m,
+  asset_detail_for_corporate_tax: [32m''[39m,
+  exemption_numerator: [33m11[39m,
+  exemption_denominator: [33m12[39m,
+  tags: [],
+  urls: [ [32m'https://moneyforward.com/'[39m ],
+  asset_category: { id: [33m30730[39m, code: [32m'SSKM0001'[39m, name: [32m'科目0001'[39m, asset_type: [33m1[39m },
+  area: {
+    id: [33m26497[39m,
+    biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+    code: [32m'STBS0001'[39m,
+    name: [32m'設置場所0001'[39m,
+    valid_from: [32m'2000-03-20'[39m,
+    valid_to: [1mnull[22m
+  },
+  unit: [1mnull[22m,
+  department: [1mnull[22m,
+  event_cause: {
+    id: [33m9635[39m,
+    type: [33m31[39m,
+    content: [32m'分割のため'[39m,
+    search_key: [32m''[39m,
+    code: [32m'5001'[39m,
+    is_default: [33mtrue[39m
+  },
+  change_situation: { code: [33m53[39m, name_jp: [32m'分割'[39m, name_en: [32m'division'[39m },
+  asset_status: {
+    code: [33m20[39m,
+    name_jp: [32m'事業供用中（償却中）'[39m,
+    name_en: [32m'in_service_depreciating'[39m
+  },
+  acquire_category: { code: [33m1[39m, name_jp: [32m'新品'[39m, name_en: [32m'new'[39m },
+  asset_type_for_depreciable_property_tax: { code: [33m1[39m, name_jp: [32m'構築物'[39m, name_en: [32m'construction'[39m },
+  asset_type_for_corporate_tax: { code: [33m17[39m, name_jp: [32m'器具及び備品'[39m, name_en: [32m'instruments_and_furniture'[39m },
+  summary_for_asset_depreciation_tax: [32m''[39m,
+  is_excluded: [33mtrue[39m,
+  dividing_source_id: [33m1416834[39m,
+  dividing_source_fixed_asset: [1mnull[22m,
+  dividing_destination_fixed_asset: [1mnull[22m
+}
+
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-77741-rease-FA-has-dividing-run-report-after-dividing-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363296 Increase: FA has dividing and sale event, run report after selling the FA" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="13.686">
+<system-out>
+<![CDATA[FAData {
+  id: [33m1416840[39m,
+  biid: [32m'01J6BW1KWW9JKTCVRK7F67JCMG'[39m,
+  created_at: [32m'2024-08-28T06:51:23.612893Z'[39m,
+  user_info: {
+    id: [33m912253[39m,
+    identification_code: [32m''[39m,
+    email: [32m''[39m,
+    display_name: [32m'2ledgers_2005_stg'[39m,
+    family_name: [32m''[39m,
+    given_name: [32m''[39m,
+    office_id: [33m82941[39m,
+    office_identification_code: [32m''[39m
+  },
+  valid_from: [32m'2022-01-01'[39m,
+  name: [32m'Macbook Pro 1'[39m,
+  name_kana: [32m'パソコン'[39m,
+  code: [32m'SSKM000100001'[39m,
+  branch_code: [32m'001'[39m,
+  acquired_at: [32m'2007-04-02'[39m,
+  usage_started_at: [32m'2007-04-04'[39m,
+  transition_at: [1mnull[22m,
+  retired_at: [1mnull[22m,
+  sold_at: [1mnull[22m,
+  recognized_at: [32m'2022-01-01'[39m,
+  divided_at: [32m'2022-01-01'[39m,
+  impaired_at: [1mnull[22m,
+  sold_amount: [33m0[39m,
+  sold_destination_name: [1mnull[22m,
+  disposal_cost: [1mnull[22m,
+  disposal_destination_name: [1mnull[22m,
+  disposal_cost_excluded_excise: [1mnull[22m,
+  manual_disposal_excise_value: [1mnull[22m,
+  calculated_disposal_excise_value: [1mnull[22m,
+  disposal_excise_id: [1mnull[22m,
+  sold_amount_excluded_excise: [1mnull[22m,
+  manual_sold_excise_value: [1mnull[22m,
+  calculated_sold_excise_value: [1mnull[22m,
+  sold_excise_id: [1mnull[22m,
+  acquisition_cost: [33m300000[39m,
+  acquisition_cost_excluded_excise: [33m300000[39m,
+  manual_excise_value: [33m0[39m,
+  calculated_excise_value: [33m0[39m,
+  excise_id: [33m281207[39m,
+  area_biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+  department_biid: [1mnull[22m,
+  quantity: [32m'2'[39m,
+  acquire_destination_name: [32m'Apple'[39m,
+  pre_submit_number: [32m''[39m,
+  memo: [32m'eLtax api automation testing'[39m,
+  fixed_asset_ledgers: [
+    {
+      id: [33m2862205[39m,
+      created_at: [32m'2024-08-28T06:51:24Z'[39m,
+      fixed_asset_id: [33m1416840[39m,
+      ledger_setting_id: [33m1098[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    },
+    {
+      id: [33m2862206[39m,
+      created_at: [32m'2024-08-28T06:51:24Z'[39m,
+      fixed_asset_id: [33m1416840[39m,
+      ledger_setting_id: [33m1099[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    }
+  ],
+  asset_structure_for_corporate_tax: [32m''[39m,
+  asset_detail_for_corporate_tax: [32m''[39m,
+  exemption_numerator: [33m11[39m,
+  exemption_denominator: [33m12[39m,
+  tags: [],
+  urls: [ [32m'https://moneyforward.com/'[39m ],
+  asset_category: { id: [33m30730[39m, code: [32m'SSKM0001'[39m, name: [32m'科目0001'[39m, asset_type: [33m1[39m },
+  area: {
+    id: [33m26497[39m,
+    biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+    code: [32m'STBS0001'[39m,
+    name: [32m'設置場所0001'[39m,
+    valid_from: [32m'2000-03-20'[39m,
+    valid_to: [1mnull[22m
+  },
+  unit: [1mnull[22m,
+  department: [1mnull[22m,
+  event_cause: {
+    id: [33m9635[39m,
+    type: [33m31[39m,
+    content: [32m'分割のため'[39m,
+    search_key: [32m''[39m,
+    code: [32m'5001'[39m,
+    is_default: [33mtrue[39m
+  },
+  change_situation: { code: [33m53[39m, name_jp: [32m'分割'[39m, name_en: [32m'division'[39m },
+  asset_status: {
+    code: [33m20[39m,
+    name_jp: [32m'事業供用中（償却中）'[39m,
+    name_en: [32m'in_service_depreciating'[39m
+  },
+  acquire_category: { code: [33m1[39m, name_jp: [32m'新品'[39m, name_en: [32m'new'[39m },
+  asset_type_for_depreciable_property_tax: { code: [33m1[39m, name_jp: [32m'構築物'[39m, name_en: [32m'construction'[39m },
+  asset_type_for_corporate_tax: { code: [33m17[39m, name_jp: [32m'器具及び備品'[39m, name_en: [32m'instruments_and_furniture'[39m },
+  summary_for_asset_depreciation_tax: [32m''[39m,
+  is_excluded: [33mtrue[39m,
+  dividing_source_id: [33m1416839[39m,
+  dividing_source_fixed_asset: [1mnull[22m,
+  dividing_destination_fixed_asset: [1mnull[22m
+}
+
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-8de22--and-sale-event-run-report-after-selling-the-FA-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363297 Increase: FA has dividing and sale event, run report in the next year after selling the FA" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="12.925">
+<system-out>
+<![CDATA[FAData {
+  id: [33m1416847[39m,
+  biid: [32m'01J6BW218PYXKXK4SCTCHREK89'[39m,
+  created_at: [32m'2024-08-28T06:51:37.040999Z'[39m,
+  user_info: {
+    id: [33m912253[39m,
+    identification_code: [32m''[39m,
+    email: [32m''[39m,
+    display_name: [32m'2ledgers_2005_stg'[39m,
+    family_name: [32m''[39m,
+    given_name: [32m''[39m,
+    office_id: [33m82941[39m,
+    office_identification_code: [32m''[39m
+  },
+  valid_from: [32m'2022-01-01'[39m,
+  name: [32m'Macbook Pro 1'[39m,
+  name_kana: [32m'パソコン'[39m,
+  code: [32m'SSKM000100001'[39m,
+  branch_code: [32m'001'[39m,
+  acquired_at: [32m'2007-04-02'[39m,
+  usage_started_at: [32m'2007-04-04'[39m,
+  transition_at: [1mnull[22m,
+  retired_at: [1mnull[22m,
+  sold_at: [1mnull[22m,
+  recognized_at: [32m'2022-01-01'[39m,
+  divided_at: [32m'2022-01-01'[39m,
+  impaired_at: [1mnull[22m,
+  sold_amount: [33m0[39m,
+  sold_destination_name: [1mnull[22m,
+  disposal_cost: [1mnull[22m,
+  disposal_destination_name: [1mnull[22m,
+  disposal_cost_excluded_excise: [1mnull[22m,
+  manual_disposal_excise_value: [1mnull[22m,
+  calculated_disposal_excise_value: [1mnull[22m,
+  disposal_excise_id: [1mnull[22m,
+  sold_amount_excluded_excise: [1mnull[22m,
+  manual_sold_excise_value: [1mnull[22m,
+  calculated_sold_excise_value: [1mnull[22m,
+  sold_excise_id: [1mnull[22m,
+  acquisition_cost: [33m300000[39m,
+  acquisition_cost_excluded_excise: [33m300000[39m,
+  manual_excise_value: [33m0[39m,
+  calculated_excise_value: [33m0[39m,
+  excise_id: [33m281207[39m,
+  area_biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+  department_biid: [1mnull[22m,
+  quantity: [32m'2'[39m,
+  acquire_destination_name: [32m'Apple'[39m,
+  pre_submit_number: [32m''[39m,
+  memo: [32m'eLtax api automation testing'[39m,
+  fixed_asset_ledgers: [
+    {
+      id: [33m2862219[39m,
+      created_at: [32m'2024-08-28T06:51:37Z'[39m,
+      fixed_asset_id: [33m1416847[39m,
+      ledger_setting_id: [33m1098[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    },
+    {
+      id: [33m2862220[39m,
+      created_at: [32m'2024-08-28T06:51:37Z'[39m,
+      fixed_asset_id: [33m1416847[39m,
+      ledger_setting_id: [33m1099[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    }
+  ],
+  asset_structure_for_corporate_tax: [32m''[39m,
+  asset_detail_for_corporate_tax: [32m''[39m,
+  exemption_numerator: [33m11[39m,
+  exemption_denominator: [33m12[39m,
+  tags: [],
+  urls: [ [32m'https://moneyforward.com/'[39m ],
+  asset_category: { id: [33m30730[39m, code: [32m'SSKM0001'[39m, name: [32m'科目0001'[39m, asset_type: [33m1[39m },
+  area: {
+    id: [33m26497[39m,
+    biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+    code: [32m'STBS0001'[39m,
+    name: [32m'設置場所0001'[39m,
+    valid_from: [32m'2000-03-20'[39m,
+    valid_to: [1mnull[22m
+  },
+  unit: [1mnull[22m,
+  department: [1mnull[22m,
+  event_cause: {
+    id: [33m9635[39m,
+    type: [33m31[39m,
+    content: [32m'分割のため'[39m,
+    search_key: [32m''[39m,
+    code: [32m'5001'[39m,
+    is_default: [33mtrue[39m
+  },
+  change_situation: { code: [33m53[39m, name_jp: [32m'分割'[39m, name_en: [32m'division'[39m },
+  asset_status: {
+    code: [33m20[39m,
+    name_jp: [32m'事業供用中（償却中）'[39m,
+    name_en: [32m'in_service_depreciating'[39m
+  },
+  acquire_category: { code: [33m1[39m, name_jp: [32m'新品'[39m, name_en: [32m'new'[39m },
+  asset_type_for_depreciable_property_tax: { code: [33m1[39m, name_jp: [32m'構築物'[39m, name_en: [32m'construction'[39m },
+  asset_type_for_corporate_tax: { code: [33m17[39m, name_jp: [32m'器具及び備品'[39m, name_en: [32m'instruments_and_furniture'[39m },
+  summary_for_asset_depreciation_tax: [32m''[39m,
+  is_excluded: [33mtrue[39m,
+  dividing_source_id: [33m1416846[39m,
+  dividing_source_fixed_asset: [1mnull[22m,
+  dividing_destination_fixed_asset: [1mnull[22m
+}
+
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-125ee-un-report-in-the-next-year-after-selling-the-FA-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363298 Increase: FA has dividing and retire event, run report after retirement" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="13.787">
+<system-out>
+<![CDATA[FAData {
+  id: [33m1416854[39m,
+  biid: [32m'01J6BW2DV5Z80SHZ0FTV6QNRNN'[39m,
+  created_at: [32m'2024-08-28T06:51:50.105925Z'[39m,
+  user_info: {
+    id: [33m912253[39m,
+    identification_code: [32m''[39m,
+    email: [32m''[39m,
+    display_name: [32m'2ledgers_2005_stg'[39m,
+    family_name: [32m''[39m,
+    given_name: [32m''[39m,
+    office_id: [33m82941[39m,
+    office_identification_code: [32m''[39m
+  },
+  valid_from: [32m'2022-01-01'[39m,
+  name: [32m'Macbook Pro 1'[39m,
+  name_kana: [32m'パソコン'[39m,
+  code: [32m'SSKM000100001'[39m,
+  branch_code: [32m'001'[39m,
+  acquired_at: [32m'2007-04-02'[39m,
+  usage_started_at: [32m'2007-04-04'[39m,
+  transition_at: [1mnull[22m,
+  retired_at: [1mnull[22m,
+  sold_at: [1mnull[22m,
+  recognized_at: [32m'2022-01-01'[39m,
+  divided_at: [32m'2022-01-01'[39m,
+  impaired_at: [1mnull[22m,
+  sold_amount: [33m0[39m,
+  sold_destination_name: [1mnull[22m,
+  disposal_cost: [1mnull[22m,
+  disposal_destination_name: [1mnull[22m,
+  disposal_cost_excluded_excise: [1mnull[22m,
+  manual_disposal_excise_value: [1mnull[22m,
+  calculated_disposal_excise_value: [1mnull[22m,
+  disposal_excise_id: [1mnull[22m,
+  sold_amount_excluded_excise: [1mnull[22m,
+  manual_sold_excise_value: [1mnull[22m,
+  calculated_sold_excise_value: [1mnull[22m,
+  sold_excise_id: [1mnull[22m,
+  acquisition_cost: [33m300000[39m,
+  acquisition_cost_excluded_excise: [33m300000[39m,
+  manual_excise_value: [33m0[39m,
+  calculated_excise_value: [33m0[39m,
+  excise_id: [33m281207[39m,
+  area_biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+  department_biid: [1mnull[22m,
+  quantity: [32m'2'[39m,
+  acquire_destination_name: [32m'Apple'[39m,
+  pre_submit_number: [32m''[39m,
+  memo: [32m'eLtax api automation testing'[39m,
+  fixed_asset_ledgers: [
+    {
+      id: [33m2862233[39m,
+      created_at: [32m'2024-08-28T06:51:50Z'[39m,
+      fixed_asset_id: [33m1416854[39m,
+      ledger_setting_id: [33m1098[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    },
+    {
+      id: [33m2862234[39m,
+      created_at: [32m'2024-08-28T06:51:50Z'[39m,
+      fixed_asset_id: [33m1416854[39m,
+      ledger_setting_id: [33m1099[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    }
+  ],
+  asset_structure_for_corporate_tax: [32m''[39m,
+  asset_detail_for_corporate_tax: [32m''[39m,
+  exemption_numerator: [33m11[39m,
+  exemption_denominator: [33m12[39m,
+  tags: [],
+  urls: [ [32m'https://moneyforward.com/'[39m ],
+  asset_category: { id: [33m30730[39m, code: [32m'SSKM0001'[39m, name: [32m'科目0001'[39m, asset_type: [33m1[39m },
+  area: {
+    id: [33m26497[39m,
+    biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+    code: [32m'STBS0001'[39m,
+    name: [32m'設置場所0001'[39m,
+    valid_from: [32m'2000-03-20'[39m,
+    valid_to: [1mnull[22m
+  },
+  unit: [1mnull[22m,
+  department: [1mnull[22m,
+  event_cause: {
+    id: [33m9635[39m,
+    type: [33m31[39m,
+    content: [32m'分割のため'[39m,
+    search_key: [32m''[39m,
+    code: [32m'5001'[39m,
+    is_default: [33mtrue[39m
+  },
+  change_situation: { code: [33m53[39m, name_jp: [32m'分割'[39m, name_en: [32m'division'[39m },
+  asset_status: {
+    code: [33m20[39m,
+    name_jp: [32m'事業供用中（償却中）'[39m,
+    name_en: [32m'in_service_depreciating'[39m
+  },
+  acquire_category: { code: [33m1[39m, name_jp: [32m'新品'[39m, name_en: [32m'new'[39m },
+  asset_type_for_depreciable_property_tax: { code: [33m1[39m, name_jp: [32m'構築物'[39m, name_en: [32m'construction'[39m },
+  asset_type_for_corporate_tax: { code: [33m17[39m, name_jp: [32m'器具及び備品'[39m, name_en: [32m'instruments_and_furniture'[39m },
+  summary_for_asset_depreciation_tax: [32m''[39m,
+  is_excluded: [33mtrue[39m,
+  dividing_source_id: [33m1416853[39m,
+  dividing_source_fixed_asset: [1mnull[22m,
+  dividing_destination_fixed_asset: [1mnull[22m
+}
+
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-4c39c-ng-and-retire-event-run-report-after-retirement-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363299 Increase: FA has dividing and retire event, run report in the next after retirement" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="14.196">
+<system-out>
+<![CDATA[FAData {
+  id: [33m1416861[39m,
+  biid: [32m'01J6BW2VDHDS60A14RH9R1A2H3'[39m,
+  created_at: [32m'2024-08-28T06:52:04.120244Z'[39m,
+  user_info: {
+    id: [33m912253[39m,
+    identification_code: [32m''[39m,
+    email: [32m''[39m,
+    display_name: [32m'2ledgers_2005_stg'[39m,
+    family_name: [32m''[39m,
+    given_name: [32m''[39m,
+    office_id: [33m82941[39m,
+    office_identification_code: [32m''[39m
+  },
+  valid_from: [32m'2022-01-01'[39m,
+  name: [32m'Macbook Pro 1'[39m,
+  name_kana: [32m'パソコン'[39m,
+  code: [32m'SSKM000100001'[39m,
+  branch_code: [32m'001'[39m,
+  acquired_at: [32m'2007-04-02'[39m,
+  usage_started_at: [32m'2007-04-04'[39m,
+  transition_at: [1mnull[22m,
+  retired_at: [1mnull[22m,
+  sold_at: [1mnull[22m,
+  recognized_at: [32m'2022-01-01'[39m,
+  divided_at: [32m'2022-01-01'[39m,
+  impaired_at: [1mnull[22m,
+  sold_amount: [33m0[39m,
+  sold_destination_name: [1mnull[22m,
+  disposal_cost: [1mnull[22m,
+  disposal_destination_name: [1mnull[22m,
+  disposal_cost_excluded_excise: [1mnull[22m,
+  manual_disposal_excise_value: [1mnull[22m,
+  calculated_disposal_excise_value: [1mnull[22m,
+  disposal_excise_id: [1mnull[22m,
+  sold_amount_excluded_excise: [1mnull[22m,
+  manual_sold_excise_value: [1mnull[22m,
+  calculated_sold_excise_value: [1mnull[22m,
+  sold_excise_id: [1mnull[22m,
+  acquisition_cost: [33m300000[39m,
+  acquisition_cost_excluded_excise: [33m300000[39m,
+  manual_excise_value: [33m0[39m,
+  calculated_excise_value: [33m0[39m,
+  excise_id: [33m281207[39m,
+  area_biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+  department_biid: [1mnull[22m,
+  quantity: [32m'2'[39m,
+  acquire_destination_name: [32m'Apple'[39m,
+  pre_submit_number: [32m''[39m,
+  memo: [32m'eLtax api automation testing'[39m,
+  fixed_asset_ledgers: [
+    {
+      id: [33m2862247[39m,
+      created_at: [32m'2024-08-28T06:52:04Z'[39m,
+      fixed_asset_id: [33m1416861[39m,
+      ledger_setting_id: [33m1098[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    },
+    {
+      id: [33m2862248[39m,
+      created_at: [32m'2024-08-28T06:52:04Z'[39m,
+      fixed_asset_id: [33m1416861[39m,
+      ledger_setting_id: [33m1099[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    }
+  ],
+  asset_structure_for_corporate_tax: [32m''[39m,
+  asset_detail_for_corporate_tax: [32m''[39m,
+  exemption_numerator: [33m11[39m,
+  exemption_denominator: [33m12[39m,
+  tags: [],
+  urls: [ [32m'https://moneyforward.com/'[39m ],
+  asset_category: { id: [33m30730[39m, code: [32m'SSKM0001'[39m, name: [32m'科目0001'[39m, asset_type: [33m1[39m },
+  area: {
+    id: [33m26497[39m,
+    biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+    code: [32m'STBS0001'[39m,
+    name: [32m'設置場所0001'[39m,
+    valid_from: [32m'2000-03-20'[39m,
+    valid_to: [1mnull[22m
+  },
+  unit: [1mnull[22m,
+  department: [1mnull[22m,
+  event_cause: {
+    id: [33m9635[39m,
+    type: [33m31[39m,
+    content: [32m'分割のため'[39m,
+    search_key: [32m''[39m,
+    code: [32m'5001'[39m,
+    is_default: [33mtrue[39m
+  },
+  change_situation: { code: [33m53[39m, name_jp: [32m'分割'[39m, name_en: [32m'division'[39m },
+  asset_status: {
+    code: [33m20[39m,
+    name_jp: [32m'事業供用中（償却中）'[39m,
+    name_en: [32m'in_service_depreciating'[39m
+  },
+  acquire_category: { code: [33m1[39m, name_jp: [32m'新品'[39m, name_en: [32m'new'[39m },
+  asset_type_for_depreciable_property_tax: { code: [33m1[39m, name_jp: [32m'構築物'[39m, name_en: [32m'construction'[39m },
+  asset_type_for_corporate_tax: { code: [33m17[39m, name_jp: [32m'器具及び備品'[39m, name_en: [32m'instruments_and_furniture'[39m },
+  summary_for_asset_depreciation_tax: [32m''[39m,
+  is_excluded: [33mtrue[39m,
+  dividing_source_id: [33m1416860[39m,
+  dividing_source_fixed_asset: [1mnull[22m,
+  dividing_destination_fixed_asset: [1mnull[22m
+}
+
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-f5fed-e-event-run-report-in-the-next-after-retirement-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363300 Increase: FA has dividing and move event, run report after moving the FA destination" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="14.303">
+<system-out>
+<![CDATA[FAData {
+  id: [33m1416868[39m,
+  biid: [32m'01J6BW396C6MR7QMMPKEWG2FP3'[39m,
+  created_at: [32m'2024-08-28T06:52:18.079446Z'[39m,
+  user_info: {
+    id: [33m912253[39m,
+    identification_code: [32m''[39m,
+    email: [32m''[39m,
+    display_name: [32m'2ledgers_2005_stg'[39m,
+    family_name: [32m''[39m,
+    given_name: [32m''[39m,
+    office_id: [33m82941[39m,
+    office_identification_code: [32m''[39m
+  },
+  valid_from: [32m'2022-01-01'[39m,
+  name: [32m'Macbook Pro 1'[39m,
+  name_kana: [32m'パソコン'[39m,
+  code: [32m'SSKM000100001'[39m,
+  branch_code: [32m'001'[39m,
+  acquired_at: [32m'2007-04-02'[39m,
+  usage_started_at: [32m'2007-04-04'[39m,
+  transition_at: [1mnull[22m,
+  retired_at: [1mnull[22m,
+  sold_at: [1mnull[22m,
+  recognized_at: [32m'2022-01-01'[39m,
+  divided_at: [32m'2022-01-01'[39m,
+  impaired_at: [1mnull[22m,
+  sold_amount: [33m0[39m,
+  sold_destination_name: [1mnull[22m,
+  disposal_cost: [1mnull[22m,
+  disposal_destination_name: [1mnull[22m,
+  disposal_cost_excluded_excise: [1mnull[22m,
+  manual_disposal_excise_value: [1mnull[22m,
+  calculated_disposal_excise_value: [1mnull[22m,
+  disposal_excise_id: [1mnull[22m,
+  sold_amount_excluded_excise: [1mnull[22m,
+  manual_sold_excise_value: [1mnull[22m,
+  calculated_sold_excise_value: [1mnull[22m,
+  sold_excise_id: [1mnull[22m,
+  acquisition_cost: [33m300000[39m,
+  acquisition_cost_excluded_excise: [33m300000[39m,
+  manual_excise_value: [33m0[39m,
+  calculated_excise_value: [33m0[39m,
+  excise_id: [33m281207[39m,
+  area_biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+  department_biid: [1mnull[22m,
+  quantity: [32m'2'[39m,
+  acquire_destination_name: [32m'Apple'[39m,
+  pre_submit_number: [32m''[39m,
+  memo: [32m'eLtax api automation testing'[39m,
+  fixed_asset_ledgers: [
+    {
+      id: [33m2862261[39m,
+      created_at: [32m'2024-08-28T06:52:18Z'[39m,
+      fixed_asset_id: [33m1416868[39m,
+      ledger_setting_id: [33m1098[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    },
+    {
+      id: [33m2862262[39m,
+      created_at: [32m'2024-08-28T06:52:18Z'[39m,
+      fixed_asset_id: [33m1416868[39m,
+      ledger_setting_id: [33m1099[39m,
+      depreciation_method_code: [33m22[39m,
+      service_life: [33m12[39m,
+      accounting_beginning_book_initial_value: [33m300000[39m,
+      transition_beginning_book_value: [1mnull[22m,
+      memorandum_value: [33m1[39m,
+      residual_amount: [33m0[39m,
+      usage_period_months: [33m0[39m,
+      impaired_amount: [1mnull[22m,
+      accumulated_impaired_amount: [1mnull[22m,
+      accumulated_over_depreciation_amt: [33m0[39m,
+      revised_acquisition_amount: [33m0[39m,
+      transition_book_value: [1mnull[22m,
+      depreciated_months: [33m0[39m,
+      transition_at: [1mnull[22m,
+      book_value: [33m1[39m,
+      retirement_depreciation_ended_method: [1mnull[22m,
+      bulk_equal_installment_depreciation_method: [1mnull[22m,
+      depreciation_method: [36m[Object][39m,
+      ledger_setting: [36m[Object][39m,
+      accumulated_depreciation_amount: [33m0[39m,
+      gain: [33m0[39m,
+      loss: [33m0[39m,
+      dividing_book_value_standard_date: [32m'2022-01-01'[39m,
+      dividing_book_value: [33m1[39m
+    }
+  ],
+  asset_structure_for_corporate_tax: [32m''[39m,
+  asset_detail_for_corporate_tax: [32m''[39m,
+  exemption_numerator: [33m11[39m,
+  exemption_denominator: [33m12[39m,
+  tags: [],
+  urls: [ [32m'https://moneyforward.com/'[39m ],
+  asset_category: { id: [33m30730[39m, code: [32m'SSKM0001'[39m, name: [32m'科目0001'[39m, asset_type: [33m1[39m },
+  area: {
+    id: [33m26497[39m,
+    biid: [32m'01J2X6KWTB5E82S3Z3ZWXB6N9F'[39m,
+    code: [32m'STBS0001'[39m,
+    name: [32m'設置場所0001'[39m,
+    valid_from: [32m'2000-03-20'[39m,
+    valid_to: [1mnull[22m
+  },
+  unit: [1mnull[22m,
+  department: [1mnull[22m,
+  event_cause: {
+    id: [33m9635[39m,
+    type: [33m31[39m,
+    content: [32m'分割のため'[39m,
+    search_key: [32m''[39m,
+    code: [32m'5001'[39m,
+    is_default: [33mtrue[39m
+  },
+  change_situation: { code: [33m53[39m, name_jp: [32m'分割'[39m, name_en: [32m'division'[39m },
+  asset_status: {
+    code: [33m20[39m,
+    name_jp: [32m'事業供用中（償却中）'[39m,
+    name_en: [32m'in_service_depreciating'[39m
+  },
+  acquire_category: { code: [33m1[39m, name_jp: [32m'新品'[39m, name_en: [32m'new'[39m },
+  asset_type_for_depreciable_property_tax: { code: [33m1[39m, name_jp: [32m'構築物'[39m, name_en: [32m'construction'[39m },
+  asset_type_for_corporate_tax: { code: [33m17[39m, name_jp: [32m'器具及び備品'[39m, name_en: [32m'instruments_and_furniture'[39m },
+  summary_for_asset_depreciation_tax: [32m''[39m,
+  is_excluded: [33mtrue[39m,
+  dividing_source_id: [33m1416867[39m,
+  dividing_source_fixed_asset: [1mnull[22m,
+  dividing_destination_fixed_asset: [1mnull[22m
+}
+
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-2f67e-vent-run-report-after-moving-the-FA-destination-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363301 Increase: FA has dividing and change asset type, run report after changing asset type" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="13.771">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-9f04c-asset-type-run-report-after-changing-asset-type-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363302 Increase: FA after correct Acquisiton cost" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="9.637">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-9fd0e-63302-Increase-FA-after-correct-Acquisiton-cost-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363303 Increase: Transition FA that has acquire_at ≤ 2023/01/01" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="8.521">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-87f87--Transition-FA-that-has-acquire-at-≤-2023-01-01-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Verify Increase Data In Tax Report @staging @beta › C363304 Increase: Transition FA with impaired that has acquire_at ≤ 2023/01/01" classname="taxDeclaration/verifyIncreaseDataInTaxReportImportFile.spec.ts" time="8.767">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|taxDeclaration-verifyIncreaseDataInTaxReportIm-6df17--with-impaired-that-has-acquire-at-≤-2023-01-01-API-Testing-Playwright-projects/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

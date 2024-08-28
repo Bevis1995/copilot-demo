@@ -1,0 +1,51 @@
+{
+  "name": "aa_api_playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/ssh2": "^1.11.11",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "eslint": "^8.45.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-import-resolver-typescript": "^3.5.5",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-playwright": "^0.12.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "filereader": "^0.10.3",
+    "monocart-reporter": "^1.7.4",
+    "playwright-slack-report": "^1.1.16",
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "test_beta": "rm -rf ./src/.auth/*.json;ENV=beta playwright test",
+    "test_beta_tags": "rm -rf ./src/.auth/*.json;ENV=beta playwright test --grep @beta",
+    "test": "rm -rf ./src/.auth/*.json;ENV=$env playwright test",
+    "test_local": "rm -rf ./src/.auth/*.json;ENV=local playwright test",
+    "test_not_slack": "playwright test",
+    "report": "playwright show-report",
+    "testrail_newRun": "trcli -n -c \"./env/testrail.yaml\" parse_junit --milestone-id \"72\" --suite-id \"440\" --case-matcher \"name\"",
+    "testrail_id": "trcli -n -c \"./env/testrail.yaml\" parse_junit --milestone-id \"72\" --suite-id \"440\" --run-id \"1662\" --case-matcher \"property\"",
+    "testrail_updateRun": "trcli -y -c \"./env/testrail.yaml\" parse_junit --run-id \"1661\" --suite-id \"440\" --milestone-id \"72\" --case-matcher \"name\"",
+    "testrail_new": "trcli -y -c \"./env/testrail.yaml\" parse_junit --milestone-id \"72\" --case-matcher \"name\"",
+    "lint": "eslint src",
+    "lint:fix": "eslint --fix src",
+    "gen:template": "cd ./src/open-api && swagger-typescript-api -p ./swagger.json -o ./gen --templates ./templates  --union-enums --modular --single-http-client --clean-output --module-name-first-tag ",
+    "gen": "cd ./src/open-api && swagger-typescript-api -p ./swagger.json -o ./gen --union-enums --modular --single-http-client --clean-output --module-name-first-tag ",
+    "gen:remote": "curl -o ./src/open-api/swagger.json https://beta.asset-accounting.mfvn.dev/swagger/doc.json && yarn gen"
+  },
+  "dependencies": {
+    "allure-playwright": "^2.1.0",
+    "axios": "^1.3.5",
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.2.3",
+    "ssh2": "^1.11.0",
+    "swagger-typescript-api": "^13.0.3",
+    "testrail-api": "^1.3.6",
+    "totp-generator": "^1.0.0",
+    "typescript": "^5.0.4"
+  }
+}
